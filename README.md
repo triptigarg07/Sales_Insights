@@ -8,7 +8,7 @@ In the competitive hardware industry, understanding sales performance across dif
 
 The primary objective of the Sales Insights Dashboard was to enable ATLIQ Hardware's sales team to monitor key sales metrics, including revenue by markets, sales quantity by region, and top-performing customers. The dashboard provided a comprehensive view of the company’s sales performance, empowering management to make data-driven decisions for market expansion and customer retention.
 
-![Dashboard](/)
+![Dashboard](/Sales_Insights.jpg)
 
 ### Key Features and Metrics
 
